@@ -1,0 +1,19 @@
+{
+  "name": "firere-discord-bots",
+  "version": "1.0.0",
+  "description": "Discord bots for Firere's Fuckery",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Firere/discord-bots.git"
+  },
+  "author": "Firere",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Firere/discord-bots/issues"
+  },
+  "homepage": "https://github.com/Firere/discord-bots#readme"
+}
